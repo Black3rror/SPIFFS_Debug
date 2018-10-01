@@ -2,7 +2,7 @@
 you can log the routine of program in SPIFFS area of ESP8266
 
 logging the routine in SPIFFS area helps developers to find the problem of their program when they let it to run for hours or days.
-for example a common problem of most products is that they hangs or restarts after some hours or days without any reason. this library helps them to findout where and when the problem occued.
+for example a common problem of most products is that they hangs or restarts after some hours or days without any reason. this library helps them to findout where and when the problem occured.
 
 it contains 3 files in SPIFFS area:
 - 'debug1.txt' file that saves the log with 'debug' or 'debugSOF' or 'debugEOF' functions.
